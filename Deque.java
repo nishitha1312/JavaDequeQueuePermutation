@@ -3,9 +3,6 @@ import edu.princeton.cs.algs4.StdOut;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-/**
- * @author Dima Pasieka
- */
 public class Deque<Item> implements Iterable<Item>
 {
     // Deque size
